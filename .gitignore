@@ -2,3 +2,6 @@ data
 model/wandb
 model/.ipynb_checkpoints
 poetry.lock
+scripts/__pycache__
+scripts/fastml
+scripts/sample.json
