@@ -14,6 +14,7 @@ seaborn = "^0.12.2"
 missingno = "^0.5.2"
 scikit-learn = "^1.2.2"
 imblearn = "^0.0"
+wandb = "^0.14.0"
 
 
 [build-system]
