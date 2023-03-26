@@ -1,1 +1,4 @@
 data
+model/wandb
+model/.ipynb_checkpoints
+poetry.lock
