@@ -15,6 +15,10 @@ missingno = "^0.5.2"
 scikit-learn = "^1.2.2"
 imblearn = "^0.0"
 wandb = "^0.14.0"
+flask = "^2.2.3"
+flask-restful = "^0.3.9"
+flask-cors = "^3.0.10"
+python-dotenv = "^1.0.0"
 
 
 [build-system]
