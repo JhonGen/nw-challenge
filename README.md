@@ -19,9 +19,10 @@ una vez ejecutada, enviar el post a la direccion entregada para obtener la predi
 
 # DEPLOY API
 Para hospedar la api, se hizo uso de heroku. El enlace a la api es: https://git.heroku.com/limitless-castle-66721.git.
-Otra Api para entrenamiento y 
+Para Build y Deploy de la api, se hizo uso de Servicios Cloud de Google, el cual cuenta con una sencilla forma de implementar
+estas funciones.
 
 # Benchmarking_Tool_Results
-En este directorio se guarda el resultado de la prueba de estres.
-La prueba de rendimiento debe llevarse a cabo a lo largo del ciclo de vida de la aplicación para abordar los problemas que podrían surgir una vez que la aplicación entre en funcionamiento, cuando aumente la base de usuarios o cuando se modifique la funcionalidad de ciertas características críticas.
+En la imagen benchmark_results.png se pueden ver los resultados para la prueba de estres realizada sobre la api.
+Para mejorar los resultados la prueba de rendimiento debe llevarse a cabo a lo largo del ciclo de vida de la aplicación para abordar los problemas que podrían surgir una vez que la aplicación entre en funcionamiento, cuando aumente la base de usuarios o cuando se modifique la funcionalidad de ciertas características críticas.
 El PT debe llevarse a cabo durante varias iteraciones para obtener los mejores resultados. Esto requiere mucho tiempo y dinero según el tipo de aplicación y un conjunto particular de API para lograr el rendimiento deseado con una configuración de recursos optimizada.
