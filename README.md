@@ -14,7 +14,7 @@ Contiene la api solicitada para la prediccion, para usarla se debe activar el en
 ```
 $uvicorn xgb-api:app --reload 
 ```
-una vez ejecutada, enviar el post a la direccion entregada para uso local.
+una vez ejecutada, enviar el post a la direccion entregada para obtener la predicción.
 
 
 
