@@ -7,7 +7,8 @@ $poetry install
 ```
 # MODEL
 Este directorio posee un notebook donde se testean diferentes modelos de clasificación con distintos hiperparametros,
-todos sus resultados se encuentran registrados mediante el uso de W&B.
+todos sus resultados se encuentran registrados mediante el uso de W&B. Las conclusiones respecto a estos experimentos
+se encuentran en el notebook de model-testing.
 
 # CW-API 
 Contiene la api solicitada para la prediccion, para usarla se debe activar el entorno y ejecutarla con
