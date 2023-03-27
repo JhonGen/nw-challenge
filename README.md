@@ -10,7 +10,7 @@ Este directorio posee un notebook donde se testean diferentes modelos de clasifi
 todos sus resultados se encuentran registrados mediante el uso de W&B.
 
 # CW-API 
-Contiene la api solicitada para la prediccion, para ejecutarla se debe activar el entorno y ejecutarla con
+Contiene la api solicitada para la prediccion, para usarla se debe activar el entorno y ejecutarla con
 ```
 $uvicorn xgb-api:app --reload 
 ```
