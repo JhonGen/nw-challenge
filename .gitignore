@@ -3,5 +3,4 @@ model/wandb
 model/.ipynb_checkpoints
 poetry.lock
 cw-api/__pycache__
-cw-api/sample.json
 cw-api/cwapi
