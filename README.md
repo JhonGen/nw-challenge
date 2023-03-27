@@ -5,7 +5,7 @@ Para reproducir los resultados es necesario instalar poetry y tras clonar el rep
 ```
 $poetry install
 ```
-# MODELS
+# MODEL
 Este directorio posee un notebook donde se testean diferentes modelos de clasificación con distintos hiperparametros,
 todos sus resultados se encuentran registrados mediante el uso de W&B.
 
