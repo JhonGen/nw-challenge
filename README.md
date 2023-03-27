@@ -1,12 +1,12 @@
 # nw-challenge
-solucion desafio de selección
+solución desafío de selección
 
 Para reproducir los resultados es necesario instalar poetry y tras clonar el repositorio ejecutar 
 ```
 $poetry install
 ```
 # MODELS
-Este directorio posee un notebook donde se testean diferentes modelos de clasificacion con distintos hiperparametros,
+Este directorio posee un notebook donde se testean diferentes modelos de clasificación con distintos hiperparametros,
 todos sus resultados se encuentran registrados mediante el uso de W&B.
 
 # CW-API 
